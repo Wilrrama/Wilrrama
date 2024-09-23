@@ -38,9 +38,14 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
+
+### I am currently working on this project
+<a href="https://github.com/ToGatherGroup/front-sensei">Projeto Sensei</a> - A web application for control and statistical analysis of student athletes from the <a href="https://www.instagram.com/sensei_divino">Instituto Sensei Divino Budokan</a>
+
 ### Studying in this moment:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
